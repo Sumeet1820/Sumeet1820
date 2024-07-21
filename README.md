@@ -11,7 +11,7 @@ I'm a passionate and hardworking entry-level developer with strong organizationa
 - **Developer Tools:** Git, GitHub, Postman, VSCode
 
 ## 🎓 Education
-- **B.Tech in Information Technology**
+- **B.E Computer Science and Engineering**
   - Visvesvaraya Technological University, Belgaum, Karnataka
   - CGPA: 7.6
   - August 2019 - June 2023
