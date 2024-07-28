@@ -40,6 +40,7 @@ I'm a passionate and hardworking entry-level developer with strong organizationa
 - 📱 Phone: +919535698093
 - 💼 LinkedIn: [Sumeet Naik](www.linkedin.com/in/sumeet-naik-569b75270)
 - 🐙 GitHub: You're already here!
+- 🌐 Portfolio: [Portfolio](https://sumeet1820.github.io/portfolio-website)
 
 ## 👨‍💻 Open for Opportunities
 I'm currently looking for entry-level developer positions. If you have any opportunities that match my skills and experience, please feel free to reach out!
